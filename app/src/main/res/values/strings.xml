@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">hw19</string>
+    <string name="title_photos">Photos</string>
+    <string name="title_map">Map</string>
+
+    <string name="take_photo">Take photo</string>
+    <string name="preview">preview</string>
+    <string name="photo_container">photo_container</string>
+    <string name="delete_photo">Delete photos</string>
+    <string name="permission_is_not_granted">permission is not granted</string>
+
+    <string name="ask_turn_GPS">Enable geolocation on your device</string>
+    <string name="open_location">Turn on</string>
+    <string name="exit">Exit</string>
+    <string name="photos">Photos</string>
+</resources>
